@@ -1,0 +1,32 @@
+
+#scene_list {
+    position: relative;
+    width: 200px;
+    left: 30%;
+    margin-top: 10px;
+    border: 1px inset;
+  }
+#page_title {
+    text-align: center;
+}
+  input {
+    width:100px;
+    position:relative;
+    top: 5px;
+  }
+
+  img {
+    margin: 0 auto;
+    border: 1px solid #aaa;
+    display: block;
+    width: 400px;
+    height: 300px;
+  }
+
+  #controlbox {
+    text-align: center;
+    margin: auto;
+    display: block;
+    width: 300px;
+    padding-bottom: 10px;
+  }
